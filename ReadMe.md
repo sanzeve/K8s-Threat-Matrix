@@ -8,7 +8,7 @@ I have used to MITRE framework to create a threat matrix specific to K8s cluster
 ## Table of Contents
 - [Background](#background)
 - [Threat Matrix](#threat-matrix)
-- [Components of CI/CD](#components-of-cicd)
+- [Components of K8s](#components-of-K8s)
 - [Techniques and Mitigation](#techniques-and-mitigation)
     - [Initial Access](#initial-access)
     - [Execution](#execution)
