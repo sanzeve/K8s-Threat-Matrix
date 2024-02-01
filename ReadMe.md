@@ -8,9 +8,6 @@ This repository provides a guide on creating a threat matrix specific to a Kuber
 
 1. [Introduction](#introduction)
 2. [Components](#Components)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [License](#license)
 
 ## Introduction
 
@@ -36,10 +33,3 @@ Container: lightweight, standalone software package that includes everything nee
 
 
 
-## Usage
-
-Follow these steps to create and utilize the Kubernetes threat matrix:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/k8s-threat-matrix.git
