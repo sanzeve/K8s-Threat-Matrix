@@ -7,7 +7,7 @@ This repository provides a guide on creating a threat matrix specific to a Kuber
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Components](#Components)
+2. [Components of a K8s cluster](#Components)
 
 ## Introduction
 
