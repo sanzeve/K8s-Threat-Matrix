@@ -32,7 +32,7 @@ Pod: smallest deployable units in K8s and represent a single instance of a runni
 
 Container: lightweight, standalone software package that includes everything needed to run an application, including the code, runtime and libraries
 
-![image](https://github.com/sanzeve/K8s-Threat-Matrix/assets/58160075/759cd535-4a08-4365-b08c-7570514d72d5)
+
 
 
 
