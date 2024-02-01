@@ -8,6 +8,17 @@ This repository provides a guide on creating a threat matrix specific to a Kuber
 
 1. [Introduction](#introduction)
 2. [Components of a K8s cluster](#Components)
+3. [Techniques and Mitigation](#techniques-and-mitigation)
+    - [Initial Access](#initial-access)
+    - [Execution](#execution)
+    - [Execution (Production)](#execution-production)
+    - [Persistence](#persistence)
+    - [Privilege Escalation](#privilege-escalation)
+    - [Defense Evasion](#defense-evasion)
+    - [Credential Access](#credential-access)
+    - [Lateral Movement](#lateral-movement)
+    - [Exfiltration](#exfiltration)
+    - [Impact](#impact)
 
 ## Introduction
 
@@ -30,6 +41,15 @@ Pod: smallest deployable units in K8s and represent a single instance of a runni
 Container: lightweight, standalone software package that includes everything needed to run an application, including the code, runtime and libraries
 
 
+## Techniques and Mitigation
 
+### Initial Access
+
+| Technique       | Description | Mitigation      |
+|-----------------|-------------|-----------------|
+| Misconfigured Kubernetes services e.g. exposed K8s API server, kubelet API, Kubernetes Dashboard, etcd API
+            | 30          | Software Engineer|
+| Mary            | 28          | Data Scientist  |
+| Robert          | 35          | UX Designer     |
 
 
