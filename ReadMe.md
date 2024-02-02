@@ -45,11 +45,7 @@ Container: lightweight, standalone software package that includes everything nee
 
 ### Initial Access
 
-| Technique       | Description | Mitigation      |
-|-----------------|-------------|-----------------|
+| Technique                                                                                                 | Description | Mitigation      |
+|-----------------------------------------------------------------------------------------------------------|-------------|-----------------|
 | Misconfigured Kubernetes services e.g. exposed K8s API server, kubelet API, Kubernetes Dashboard, etcd API
-            | 30          | Software Engineer|
-| Mary            | 28          | Data Scientist  |
-| Robert          | 35          | UX Designer     |
-
 
